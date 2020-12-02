@@ -2,9 +2,13 @@
 
 You can access any of the lecture Jupyter notebooks by clicking on the associated "Launch Binder" badge.
 
-## NIDS Machine Learning - Part 1 of 2
+## NIDS Machine Learning - Part 1 and 2
 
+### Part 1
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NIDS2020-instructor/machinelearning-series/HEAD?filepath=ml_part1.ipynb)
+
+### Part 2
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NIDS2020-instructor/machinelearning-series/HEAD?filepath=ml_part2.ipynb)
 
 # How to setup your own coding environment at home ?
 
